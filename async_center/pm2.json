@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "name": "async_do_dou",
+            "script": "./do_dou.js",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        },
+        {
+            "name": "async_bet_open",
+            "script": "./bet_open.js",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        }
+    ]
+} 

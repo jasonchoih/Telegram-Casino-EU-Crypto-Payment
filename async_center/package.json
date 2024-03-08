@@ -1,0 +1,19 @@
+{
+  "name": "sd28_sub_op",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dayjs": "^1.10.7",
+    "js-shortid": "^0.1.1",
+    "mariadb": "^2.5.4",
+    "redis": "^3.1.2",
+    "sequelize": "^6.6.5"
+  }
+}

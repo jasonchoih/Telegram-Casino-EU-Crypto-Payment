@@ -1,0 +1,28 @@
+{
+    "apps": [
+        {
+            "name": "lottery_in",
+            "script": "./lottery_in.js",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        },
+        {
+            "name": "lottery_open",
+            "script": "./lottery_open.js",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        },
+        {
+            "name": "lottery_qun",
+            "script": "./lottery_qun.js",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        },
+        {
+            "name": "lottery_bet_out",
+            "script": "./bet_out.js",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        }
+    ]
+}

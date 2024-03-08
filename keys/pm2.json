@@ -1,0 +1,22 @@
+{
+    "apps": [
+        {
+            "name": "web_keys_admin",
+            "script": "./admin.js",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        },
+        {
+            "name": "web_puppy_internal",
+            "script": "./puppy.js",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        },
+        {
+            "name": "web_crypto_webhook",
+            "script": "./webhook.js",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        }
+    ]
+} 
